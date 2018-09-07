@@ -1,5 +1,5 @@
 Before running any model please download the data from
-1. http://138.197.133.21/project4data.zip 
+1. http://<--Link will be updated soon--> 
 2. After that extract the folder named features and place it in the same directory as the code.
 
 To run Regression model
